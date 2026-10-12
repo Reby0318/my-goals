@@ -11,5 +11,7 @@ Phase 0/7 · Setup. Files are on GitHub so progress can be shared before the web
 - Git uses the GitHub noreply email.
 
 ## Next
+- Repo is live: github.com/Reby0318/my-goals (published 2026-10-12).
+- Each day: she tells me what she did → I add updates/<date>.md + check-in → push.
 - Install uv (needs approval), then Spec Kit.
 - Phase 1: confirm dates and [brackets], one question at a time.
